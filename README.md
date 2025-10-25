@@ -18,17 +18,14 @@ Purchasing Overview
 Total purchasing cost: $2.17B, quantity: 140M units, overall profit margin: 49.77%.
 Highlights major suppliers (Fabrikam Inc., Litware Inc.) and category profitability.
 Displays supplier cost dependency and contribution to overall performance.
-
 Ordering Trends
 Tracks monthly and yearly purchasing activity (2013–2016).
 Purchase orders increased by 14.02% YoY with an average order size of 5K units.
 Includes cost-per-unit and cost-per-outer analyses for trend monitoring and cost optimization.
-
 Supplier Performance
 Evaluates purchasing cost and unit price by supplier.
 Monitors fulfillment ratio (1.00) and profit margin across suppliers.
 Fabrikam Inc. leads in purchasing cost ($1.64B), while Litware Inc. delivers steady profitability and moderate unit costs.
-
 Category & Item Insights
 Breaks down purchasing quantity, cost, and profit margin by category.
 Lists top 10 items by average purchase quantity.
